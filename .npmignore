@@ -4,4 +4,3 @@ node_modules/
 *.tgz
 *.log
 npm-debug.log*
-package-lock.json
