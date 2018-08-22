@@ -1,6 +1,6 @@
-# eslint-config-think
+# eslint-config-meishi
 
-eslint config for ThinkJS 3.0
+eslint config for meishi
 
 ## Installation
 
@@ -9,10 +9,11 @@ You can install ESLint using npm:
 ```
 npm install eslint --save-dev
 ```
+
 Then install this configuration:
 
 ```
-npm install eslint-config-think --save-dev
+npm install eslint-config-meishi --save-dev
 ```
 
 ## Usage
@@ -21,6 +22,6 @@ In your `.eslintrc` file, add:
 
 ```
 {
-    "extends": "think"
+  "extends": "meishi"
 }
 ```

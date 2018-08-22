@@ -1,21 +1,17 @@
 {
-  "name": "eslint-config-think",
-  "description": "eslint config for ThinkJS",
-  "version": "1.0.2",
+  "name": "eslint-config-meishi",
+  "description": "eslint config for meishi",
+  "version": "1.0.0",
   "author": {
-    "name": "welefen",
-    "email": "welefen@gmail.com"
+    "name": "lushijie",
+    "email": "lushijie1218@126.com"
   },
   "scripts": {},
-  "contributors": [
-    {
-      "name": "welefen",
-      "email": "welefen@gmail.com"
-    }
-  ],
+  "contributors": [],
   "main": "index.js",
   "dependencies": {
     "babel-eslint": "^7.2.3",
+    "eslint-plugin-html": "^4.0.5",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-node": "^5.1.0",
     "eslint-plugin-promise": "^3.5.0",
@@ -25,13 +21,13 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thinkjs/eslint-config-think"
+    "url": "https://github.com/meishi-fe/eslint-config-meishi"
   },
   "engines": {
     "node": ">=6.0.0"
   },
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/thinkjs/eslint-config-think/issue"
+    "url": "https://github.com/meishi-fe/eslint-config-meishi/issue"
   }
 }
